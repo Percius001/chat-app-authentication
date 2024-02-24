@@ -8,6 +8,7 @@
     <RootNamespace>chat_app_authentication</RootNamespace>
     <UserSecretsId>17933076-ae25-439e-9913-b1bf09d359b3</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
   </PropertyGroup>
 
   <ItemGroup>
